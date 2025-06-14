@@ -39,7 +39,7 @@
 ## 📫 Contatti
 
 💬 Sono sempre aperto a nuove opportunità di collaborazione nel mondo dello sviluppo.  
-📍 Scrivimi su [LinkedIn](https://www.linkedin.com/in/tuo-profilo) per fare due chiacchiere o scambiare idee!  
+📍 Scrivimi su [LinkedIn](https://www.linkedin.com/in/vincenzo-moussa/) per fare due chiacchiere o scambiare idee!  
 🚀 La mia passione? **Trasformare idee in codice di qualità.**
 
 ---

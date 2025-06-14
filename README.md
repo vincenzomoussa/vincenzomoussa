@@ -1,3 +1,6 @@
+
+---
+
 <h1 align="center">Vincenzo Moussa | Full-Stack Developer</h1>
 
 <p align="center">
@@ -32,8 +35,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
 </p>
-
----
 
 ## 📫 Contatti
 

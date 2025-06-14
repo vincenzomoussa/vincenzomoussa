@@ -8,8 +8,6 @@
   La mia competenza tecnica, unita a un solido approccio al problem-solving, mi consente di sviluppare soluzioni web <strong>moderne, scalabili ed efficienti</strong>.
 </p>
 
----
-
 ## 🧠 Tech Stack
 
 <p align="center">
